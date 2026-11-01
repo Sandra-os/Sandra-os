@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sandra Ogbudinkpa
 
-<!--
-**Sandra-os/Sandra-os** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building reliable full-stack products and thoughtful interactive experiences.
 
-Here are some ideas to get you started:
+[Portfolio](https://sandra-ogbudinkpa.vercel.app) · [Resume](https://sandra-ogbudinkpa.vercel.app/resume) · [Contact](https://sandra-ogbudinkpa.vercel.app/contact) · [Email](mailto:sandra.os325@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+- **[Petal Relay — public beta](https://sandra-ogbudinkpa.vercel.app/projects/petal-relay)**: a browser puzzle game with deterministic TypeScript rules, sixty solution-validated levels, bounded worker hints and save-safe offline updates. [Play the game](https://petal-relay.vercel.app/). Source private; human/device/accessibility validation remains part of beta review.
+- **[KinOS — private beta](https://sandra-ogbudinkpa.vercel.app/projects/kinos)**: a sanitized case study of household coordination, typed web/mobile workflows and server-side access boundaries. Restricted demonstration with synthetic data only; source and production access remain private.
+
+## Engineering foundations
+
+Earlier public work includes [BloomFit](https://github.com/Sandra-os/fitness-tracker-app) and [Task Manager](https://github.com/Sandra-os/task-manager-app). [Project details and computer engineering coursework](https://sandra-ogbudinkpa.vercel.app/projects#foundations) remain on the portfolio.
+
+Operations Data Workbench is a planned next build, with no shipped demo or results yet.
