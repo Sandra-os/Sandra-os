@@ -13,4 +13,4 @@ Software engineer building reliable full-stack products and thoughtful interacti
 
 Earlier public work includes [BloomFit](https://github.com/Sandra-os/fitness-tracker-app) and [Task Manager](https://github.com/Sandra-os/task-manager-app). [Project details and computer engineering coursework](https://sandra-ogbudinkpa.vercel.app/projects#foundations) remain on the portfolio.
 
-Operations Data Workbench is a planned next build, with no shipped demo or results yet.
+Operations Data Workbench is a local-first reconciliation project for synthetic shift and activity data. Source remains private; no hosted demo is published.
